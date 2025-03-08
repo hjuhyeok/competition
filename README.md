@@ -31,9 +31,3 @@
 ✅ **천안시 교통사고 취약지역을 효과적으로 분석 및 시각화**  
 ✅ **우선적으로 해결해야 할 지역을 제안**  
 ✅ **해당 분석을 인정받아 `우수상` 수상**  
-
----
-
-## 📂 프로젝트 관련 파일
-📄 [프로젝트 발표 자료 (PPTX)](https://github.com/hjuhyeok/competition/raw/main/docs/presentation.pptx)  
-📄 [프로젝트 보고서 (PDF)](https://github.com/hjuhyeok/competition/raw/main/docs/report.pdf)  
