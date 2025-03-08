@@ -29,7 +29,7 @@
 
 ## 📊 천안시 교통안전지수 대시보드
 <p align="center">
-  <img src="https://github.com/hjuhyeok/competition/raw/main/images/천안시_행정동_대시보드.png" width="700">
+  <img src="[https://github.com/hjuhyeok/competition/raw/main/images/천안시_행정동_대시보드.png](https://github.com/hjuhyeok/competition/blob/main/%EC%B2%9C%EC%95%88%EC%8B%9C%20%ED%96%89%EC%A0%95%EB%8F%99%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png?raw=true)" width="700">
 </p>
 
 
