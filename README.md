@@ -27,6 +27,14 @@
 
 ---
 
+## 📊 천안시 교통안전지수 대시보드
+<p align="center">
+  <img src="https://github.com/hjuhyeok/competition/raw/main/images/천안시_행정동_대시보드.png" width="700">
+</p>
+
+
+
+
 ## 🎯 성과 및 결과
 ✅ **천안시 교통사고 취약지역을 효과적으로 분석 및 시각화**  
 ✅ **우선적으로 해결해야 할 지역을 제안**  
